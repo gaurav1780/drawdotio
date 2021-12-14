@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T01:57:22.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="15.9.6" etag="zrPgKl7GMm1xlGSSCxA7" type="github"><diagram id="Bee4Ld4tc8syCXKYtyaV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-14T02:19:16.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Icyi3oU4mkREgqLNf9LY" version="15.9.6" type="github">
+  <diagram id="Bee4Ld4tc8syCXKYtyaV" name="Page-1">
+    <mxGraphModel dx="1106" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WRWeThgwBknsAtgJrheL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="610" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-2" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-weight: normal ; font-size: 16px ; line-height: 24px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; Node {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; data&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; Node next&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; Node(&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; d&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; Node n) {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;        data = d&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;        next = n&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;    }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; NodeClient {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;static&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;void&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; main(String[] args) {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;        Node b = &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;new&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; Node(7&lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;        Node a = &lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;new&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; Node(1&lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; b)&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;   &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;        System.out.println(a.next.data)&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;    }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="410" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-3" value="a&lt;br&gt;(Node reference)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-10" value="data = 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-11" value="next &lt;br&gt;(Node reference)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-12" value="data = 70" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-13" value="next = null&lt;br&gt;(Node reference)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-14" value="Node instance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="295" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-15" value="Node instance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-16" value="b&lt;br&gt;(Node reference)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#66FF66;" edge="1" parent="1" source="WRWeThgwBknsAtgJrheL-3" target="WRWeThgwBknsAtgJrheL-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#66FF66;" edge="1" parent="1" target="WRWeThgwBknsAtgJrheL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.96000000000004" y="650" as="sourcePoint" />
+            <mxPoint x="480" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRWeThgwBknsAtgJrheL-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#66FF66;" edge="1" parent="1" target="WRWeThgwBknsAtgJrheL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360.00000000000006" y="540" as="sourcePoint" />
+            <mxPoint x="490.04" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
