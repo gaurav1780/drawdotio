@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T00:01:45.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.2" etag="2tK7BQLvXV84ggpZHOe0" type="github"><diagram id="3BsUe1HRVXo8vbo3j_y2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T02:27:41.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B0owOnWa4pHnrVHe6m_y" version="20.1.2" type="github">
+  <diagram id="3BsUe1HRVXo8vbo3j_y2" name="Page-1">
+    <mxGraphModel dx="1956" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry width="800" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-1" value="int[] taxi = {10, 70, 20, 90};" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=35;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-2" value="taxi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-3" value="length = 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-5" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-6" value="70" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-7" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-8" value="90" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;size=0.5;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="60" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-11" value="Sufficient memory &lt;br style=&quot;font-size: 22px;&quot;&gt;for the length attribute,&lt;br style=&quot;font-size: 22px;&quot;&gt;and the items of the array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="490" y="215" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;rounded=0;fontSize=17;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-14" value="The arrow represents the&lt;br&gt;fact that the reference (taxi)&lt;br&gt;refers to the instance on the right" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-15" value="int[] instance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.75;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="179.5" as="sourcePoint" />
+            <mxPoint x="320" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-21" value="int[] reference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="75" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pt-Fc-wFDxS9O9jg1-se-22" value="print(taxi.length); //4&lt;br&gt;print(taxi[0]); //10&lt;br&gt;print(taxi[1]); //70&lt;br&gt;print(taxi[2]); //20&lt;br&gt;print(taxi[3]); //90&lt;br&gt;print(taxi[4]); //ArrayIndexOutOfBoundsException (AIOOBE)&lt;br&gt;print(taxi[-1]); //AIOOBE&lt;br&gt;print( taxi [ taxi.length - 1 ] );&amp;nbsp; //90&lt;br&gt;print( taxi [ taxi.length - 2 ] );&amp;nbsp; //20&lt;br&gt;print( taxi [ taxi.length - 3 ] );&amp;nbsp; //70&lt;br&gt;print( taxi [ taxi.length - 4 ] );&amp;nbsp; //10&lt;br&gt;print( taxi [ taxi.length - 5 ] ); //AIOOBE&lt;br&gt;taxi[1] = 50; //will change the contents to 10, 50, 20, 90&lt;br&gt;taxi&amp;nbsp; = 60; //ERROR: Copying int (60) into int[] (taxi)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="470" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
