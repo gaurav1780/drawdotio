@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="IT8k9cWbNbt9AyzxBjVA">
-    <mxGraphModel dx="2290" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2290" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-480" width="1680" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-1" value="START&lt;div style=&quot;font-size: 16px;&quot;&gt;INPUT: time T (in minutes)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-1" value="START&lt;div style=&quot;font-size: 16px;&quot;&gt;INPUT: time T (in minutes)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="100" as="sourcePoint" />
             <mxPoint x="780" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-3" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 180&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-3" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 180&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="200" as="sourcePoint" />
             <mxPoint x="1000" y="280" as="targetPoint" />
@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="200" as="sourcePoint" />
             <mxPoint x="560" y="280" as="targetPoint" />
@@ -37,19 +37,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-6" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-6" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-7" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-7" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="925" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-8" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = 0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-8" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = 0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="940" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-9" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 210&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-9" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 210&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="320" as="sourcePoint" />
             <mxPoint x="780" y="400" as="targetPoint" />
@@ -58,13 +58,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-11" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-11" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="705" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-12" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $6" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-12" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $6" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="320" as="sourcePoint" />
             <mxPoint x="340" y="400" as="targetPoint" />
@@ -73,10 +73,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-14" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 240&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-14" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 240&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="440" as="sourcePoint" />
             <mxPoint x="560" y="520" as="targetPoint" />
@@ -85,16 +85,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-16" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-16" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="485" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-17" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $10" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-17" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $10" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-18" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-18" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="440" as="sourcePoint" />
             <mxPoint x="120" y="520" as="targetPoint" />
@@ -103,10 +103,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-20" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 300&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-20" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 300&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="520" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="560" as="sourcePoint" />
             <mxPoint x="340" y="640" as="targetPoint" />
@@ -115,16 +115,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-22" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-22" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="265" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-23" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $20" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-23" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $20" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-24" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-24" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="560" as="sourcePoint" />
             <mxPoint x="-100" y="640" as="targetPoint" />
@@ -133,10 +133,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-26" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 600&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-26" value="is T less than&amp;nbsp;&lt;div&gt;or equal to 600&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-200" y="640" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="680" as="sourcePoint" />
             <mxPoint x="120" y="760" as="targetPoint" />
@@ -145,16 +145,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-28" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-28" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="45" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-29" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $40" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-29" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $40" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-30" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-30" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-70" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=3;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="680" as="sourcePoint" />
             <mxPoint x="-320" y="760" as="targetPoint" />
@@ -163,10 +163,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-32" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-32" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-285" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HWcQ_Y_tHyOPNOysABZA-33" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $50" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HWcQ_Y_tHyOPNOysABZA-33" value="STOP&lt;br style=&quot;font-size: 16px;&quot;&gt;Parking Fee = $50" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-380" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
