@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="XwBG22aRkaqgsSbQBnmj">
-    <mxGraphModel>
+    <mxGraphModel dx="1440" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-66" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="760" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-40" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Node instance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-36" value="n1:&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;Node reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-37" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="270" as="sourcePoint" />
+            <mxPoint x="600" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-38" value="data = 10" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-39" value="next:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Node reference&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-41" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Node instance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-42" value="n2:&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;Node reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="430" as="sourcePoint" />
+            <mxPoint x="600" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-44" value="data = -12" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-45" value="next:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Node reference&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-46" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Node instance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-47" value="n3:&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;Node reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-48" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="590" as="sourcePoint" />
+            <mxPoint x="600" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-49" value="data = 7" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-50" value="next:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Node reference&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-51" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Node instance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-52" value="n4:&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;Node reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-53" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="750" as="sourcePoint" />
+            <mxPoint x="600" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-54" value="data = 0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-55" value="next:&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Node reference&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-56" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Node instance&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="880" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-57" value="n5:&amp;nbsp;&lt;div style=&quot;font-size: 14px;&quot;&gt;Node reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="910" as="sourcePoint" />
+            <mxPoint x="600" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-59" value="data = -25" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-60" value="next = null&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Node reference&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-62" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="320" as="sourcePoint" />
+            <mxPoint x="730" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-63" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="730" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-64" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="640" as="sourcePoint" />
+            <mxPoint x="730" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-65" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="800" as="sourcePoint" />
+            <mxPoint x="730" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-67" value="&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space-collapse: preserve; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 17px;&quot;&gt;Node&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n5&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(197, 134, 192); font-size: 17px;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(220, 220, 170); font-size: 17px;&quot;&gt;Node&lt;/span&gt;(&lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;color: rgb(181, 206, 168); font-size: 17px;&quot;&gt;25&lt;/span&gt;, &lt;span style=&quot;color: rgb(86, 156, 214); font-size: 17px;&quot;&gt;null&lt;/span&gt;);&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space-collapse: preserve; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 17px;&quot;&gt;Node&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n4&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(197, 134, 192); font-size: 17px;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(220, 220, 170); font-size: 17px;&quot;&gt;Node&lt;/span&gt;(&lt;span style=&quot;color: rgb(181, 206, 168); font-size: 17px;&quot;&gt;0&lt;/span&gt;, &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n5&lt;/span&gt;);&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space-collapse: preserve; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 17px;&quot;&gt;Node&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n3&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(197, 134, 192); font-size: 17px;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(220, 220, 170); font-size: 17px;&quot;&gt;Node&lt;/span&gt;(&lt;span style=&quot;color: rgb(181, 206, 168); font-size: 17px;&quot;&gt;7&lt;/span&gt;, &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n4&lt;/span&gt;);&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space-collapse: preserve; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 17px;&quot;&gt;Node&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n2&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(197, 134, 192); font-size: 17px;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(220, 220, 170); font-size: 17px;&quot;&gt;Node&lt;/span&gt;(&lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;color: rgb(181, 206, 168); font-size: 17px;&quot;&gt;12&lt;/span&gt;, &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n3&lt;/span&gt;);&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space-collapse: preserve; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 17px;&quot;&gt;Node&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n1&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212); font-size: 17px;&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(197, 134, 192); font-size: 17px;&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(220, 220, 170); font-size: 17px;&quot;&gt;Node&lt;/span&gt;(&lt;span style=&quot;color: rgb(181, 206, 168); font-size: 17px;&quot;&gt;10&lt;/span&gt;, &lt;span style=&quot;color: rgb(156, 220, 254); font-size: 17px;&quot;&gt;n2&lt;/span&gt;);&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#000000;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JT_xuUOgfyqFdRKBLIvc-70" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt; public&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 16px;&quot;&gt;Node&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;     &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 16px;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;; &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;     &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 16px;&quot;&gt;Node&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;next&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;; &lt;/span&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;     &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt;public&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(220, 220, 170); font-size: 16px;&quot;&gt;Node&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 16px;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(78, 201, 176); font-size: 16px;&quot;&gt;Node&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;next&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;) { &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;         &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212); font-size: 16px;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;         &lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214); font-size: 16px;&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;next&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212); font-size: 16px;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254); font-size: 16px;&quot;&gt;next&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt;     }&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204); font-size: 16px;&quot;&gt; }&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="470" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
