@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="0od3GfxegmCQJhTpboQH">
-    <mxGraphModel>
+    <mxGraphModel dx="1224" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yMyZHrwERsMoM6R5akro-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" width="1240" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-1" value="alpha:&lt;div style=&quot;font-size: 14px;&quot;&gt;TripLeg reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-2" value="beta:&lt;div style=&quot;font-size: 14px;&quot;&gt;TripLeg reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-5" value="delta:&amp;nbsp;&lt;div&gt;ArrayList&amp;lt;TripLeg&amp;gt; reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;ArrayList&amp;lt;TripLeg&amp;gt; instance&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-7" value="elements:&lt;div style=&quot;font-size: 14px;&quot;&gt;TripLeg[] reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="860" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-10" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;TripLeg[] instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-12" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;TripLeg instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-13" value="distance = 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-14" value="time = 20" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-15" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;TripLeg instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-16" value="distance = 20" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-17" value="time = 30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-18" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;TripLeg instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-19" value="distance = 30" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-20" value="time = 40" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="52" as="sourcePoint" />
+            <mxPoint x="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="212" as="sourcePoint" />
+            <mxPoint x="280" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-25" value="length = 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-26" value="[0]: TripLeg reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-27" value="[2]: TripLeg reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-28" value="[1]: TripLeg reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="130" as="sourcePoint" />
+            <mxPoint x="1150" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.005;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="150" as="sourcePoint" />
+            <mxPoint x="780" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="190" as="sourcePoint" />
+            <mxPoint x="500" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.006;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="239" as="sourcePoint" />
+            <mxPoint x="490" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="290" as="sourcePoint" />
+            <mxPoint x="500" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-35" value="echo: Trip reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-36" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Trip instance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-37" value="legs: ArrayList&amp;lt;TripLeg&amp;gt; reference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="860" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="yMyZHrwERsMoM6R5akro-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="290" as="sourcePoint" />
+            <mxPoint x="1150" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.694;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="310" as="sourcePoint" />
+            <mxPoint x="941.04" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-42" value="charlie:&lt;div style=&quot;font-size: 14px;&quot;&gt;TripLeg reference&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMyZHrwERsMoM6R5akro-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174" y="372" as="sourcePoint" />
+            <mxPoint x="280" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
