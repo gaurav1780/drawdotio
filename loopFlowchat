@@ -1,9 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="Xmx6oS9wm1Q9gqbZjigo">
-    <mxGraphModel>
+    <mxGraphModel dx="1224" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" width="680" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-1" value="loop&amp;nbsp;&lt;div&gt;condition&amp;nbsp;&lt;div&gt;(Boolean&amp;nbsp;&lt;/div&gt;&lt;div&gt;expression)&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;endSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-6" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;True&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rJ7_jpc7TjBjPSp8MIWy-2">
+          <mxGeometry x="-0.3812" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-3" value="loop&lt;div style=&quot;font-size: 20px;&quot;&gt;body&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-4" value="rest of the code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endSize=5;" edge="1" parent="1" target="rJ7_jpc7TjBjPSp8MIWy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="440" as="sourcePoint" />
+            <mxPoint x="610" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="560" />
+              <mxPoint x="760" y="560" />
+              <mxPoint x="760" y="40" />
+              <mxPoint x="280" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;endSize=5;" edge="1" parent="1" target="rJ7_jpc7TjBjPSp8MIWy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="330" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJ7_jpc7TjBjPSp8MIWy-8" value="&lt;font color=&quot;#ff0000&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 27px;&quot;&gt;False&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rJ7_jpc7TjBjPSp8MIWy-7">
+          <mxGeometry x="-0.0437" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
